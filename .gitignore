@@ -1,0 +1,4 @@
+mysql-data/
+backups/
+%BACKUP_DIR/
+*.log
